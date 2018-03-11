@@ -1,0 +1,8 @@
+class SmallestElementInArray
+ { 
+   public static void main (String args[])
+     { 
+       int a[] = {50,60,70,80,90,100,45,7952,45};
+         int min = a[0];
+           for (int i=1; i<a.length;i++)
+             
